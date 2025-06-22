@@ -94,6 +94,7 @@ Music students reported usefulness
 | **Perplexity**    | \~22.4   | Acceptable for conversational roleplay     |
 | **BLEU Score**    | \~0.38   | Open-domain, Q\&A structure affects metric |
 | **User Feedback** | Positive | Good coherence and character retention     |
+![Screenshot from 2025-06-22 23-13-30](https://github.com/user-attachments/assets/7be36718-0b7b-4857-a975-96fdcf0cdece)
 
 🧪 Technologies Used
 Python & PyTorch
