@@ -95,6 +95,7 @@ Music students reported usefulness
 | **BLEU Score**    | \~0.38   | Open-domain, Q\&A structure affects metric |
 | **User Feedback** | Positive | Good coherence and character retention     |
 
+
 🧪 Technologies Used
 Python & PyTorch
 
