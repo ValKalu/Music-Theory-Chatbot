@@ -132,6 +132,9 @@ Expand to multi-turn dialogue memory
 
 Evaluate with larger roleplay datasets (e.g., from Reddit, Discord)
 
+ [video 1](https://www.loom.com/share/02c272a4c78a4a338f6db2bbd118d62b)
+ [video 2]([url](https://www.loom.com/share/8cdaf7c32bb742c1a1f37afac7fd2150))
+
 
 
 
